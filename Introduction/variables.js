@@ -3,3 +3,4 @@ let age = 23;
 const SCHOOL = "Semicolon Africa";
     SCHOOL = "Joy";
     console.log(age);
+    console.log(number);
